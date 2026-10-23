@@ -1,3 +1,5 @@
+-- Members: Georgii Yakovlyev, Frank Tongwa Asongna, Tommaso Cosimo Miraglia, Anders Zobbe Mortensen. 
+
 # CIT Assignments
 
 Group assignments for Complex IT Systems – Theory E2026 (40417), Section 2:
