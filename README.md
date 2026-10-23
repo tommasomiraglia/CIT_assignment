@@ -1,4 +1,4 @@
--- Members: Georgii Yakovlyev, Frank Tongwa Asongna, Tommaso Cosimo Miraglia, Anders Zobbe Mortensen. 
+# Members: Georgii Yakovlyev, Frank Tongwa Asongna, Tommaso Cosimo Miraglia, Anders Zobbe Mortensen. 
 
 # CIT Assignments
 
